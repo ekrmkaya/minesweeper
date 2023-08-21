@@ -3,7 +3,7 @@ Personal project with Java Swing.
 This project was something I had developed to test my understanding of Object Oriented Programming principles. I have revisited the project
 and added graphics.
 
-# contents
+# Contents
 The project consists of 6 java files and 1 additional file for the pngs needed for graphics. 
 
 1. Cell.java outlines the individuals cells that can be clicked and opened. 
@@ -19,6 +19,6 @@ and updates the graphics when necessary.
 
 7. img.zip contains .png files that are used in the code. 
 
-# running
+# Running
 You can run the code simply by unzipping img and running the main method in Menu.java. 
 
