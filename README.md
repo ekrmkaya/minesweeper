@@ -22,3 +22,6 @@ and updates the graphics when necessary.
 # Running
 You can run the code simply by unzipping img and running the main method in Menu.java. 
 
+<img width="231" alt="menu" src="https://github.com/ekrmkaya/minesweeper/assets/91214064/651a5860-6fb6-4299-b8c4-6523a6129e9a">
+
+<img width="240" alt="gameplay" src="https://github.com/ekrmkaya/minesweeper/assets/91214064/b794465e-5ad0-4b5d-998d-08041887e5a5">
